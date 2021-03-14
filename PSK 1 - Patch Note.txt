@@ -1,0 +1,34 @@
+------------------------------------- 1.0----------------------------------------------------
+Utworzenie serwera i klienta TCP
+Wstepna definicja us³ug i zapytañ
+Prosta obs³uga zapytan i odpowiedzi
+
+------------------------------------- 1.1 ----------------------------------------------------
+Dodano mo¿liwoœæ PINGowania (polecenie "PING")
+Poprawienie obs³ugi TCP
+
+------------------------------------- 1.2 ----------------------------------------------------
+Dodano kolekcjê klientów po stronie serwera (list<Obiekt_klienta>)
+Wprowadzenie blokad (MUTEX) dla w¹tków (lista wspó³dzielona przez w¹tki)
+Dodano mo¿liwoœæ logowania(opcja niezbêdna do dodania klienta do listy obs³ugiwanych przy TCP, UDP i RS) (polecenie "LOGIN")
+Dodano mo¿liwoœæ czatowania (polecenie "TO nazwa_odbiorcy treœæ_wiadomoœci")
+
+------------------------------------ 1.3 -------------------------------------------------------
+Dodano UDP (serwer i klient)
+Dodano systematyczne odpytywanie serwera od strony klienta (g³ównie dla czatu - zapytanie, czy nie pojawi³y siê nowe wiadomosci) (polecenie "CHECK" - nie u¿ywane przez u¿ytkownika)
+Poprawiono sekcjê krytyczn¹ (ograniczono liczbe sekcji krytycznych do jednej).
+Poprawiono identyfikacjê pakietow od klientów (teraz ka¿dy pakiet jest indentyfikowany osobno)
+Poprawiono konstrukcjê zapytañ (dwa pola u¿ytkowników [np. TO odbiorca nadawca treœæ_wiadomoœci]; powi¹zane z powy¿szym)
+
+--------------------------------------- 1.4 ------------------------------------------------------------------------
+Dodano RS 232 (serwer i klient)
+Dodano File Manager (serwer i klient)
+Aktualizacja sekcji krytycznych (g³ównie przy File Manager)
+
+--------------------------------------- 1.5 -----------------------------------------------------------------------
+Wstêpna konfiguracja serwera (klasa "Konfiguracja" z mo¿liwoœci¹ serializacji)
+Dodano mo¿liwoœæ konfiguracji serwera z poziomu klienta (polecenie "SET NAZWA_USLUGI TRYB" np. SET PING OFF, SET UDP ON...)
+Dodano mo¿liwoœæ podgl¹du konfiguracji z poziomu klienta (polecenie "CONFIGURATION")
+Aktualizacja zapytañ i ich obs³ugi
+Usprawniono sekcje krytyczne (mniej rozbite i w mniejszej iloœci)
+Aktualizacja wyœwietlanych komunikatów

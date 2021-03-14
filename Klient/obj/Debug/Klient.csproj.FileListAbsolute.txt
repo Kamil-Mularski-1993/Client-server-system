@@ -1,0 +1,28 @@
+C:\Users\Kamil\Desktop\Klient\Klient\bin\Debug\Klient.exe.config
+C:\Users\Kamil\Desktop\Klient\Klient\bin\Debug\Klient.exe
+C:\Users\Kamil\Desktop\Klient\Klient\bin\Debug\Klient.pdb
+C:\Users\Kamil\Desktop\Klient\Klient\obj\Debug\Klient.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\Klient\Klient\obj\Debug\Klient.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\Klient\Klient\obj\Debug\Klient.exe
+C:\Users\Kamil\Desktop\Klient\Klient\obj\Debug\Klient.pdb
+C:\Users\Kamil\Desktop\PSK - Projekty koncowe\PSK I\Klient\bin\Debug\Klient.exe.config
+C:\Users\Kamil\Desktop\PSK - Projekty koncowe\PSK I\Klient\bin\Debug\Klient.exe
+C:\Users\Kamil\Desktop\PSK - Projekty koncowe\PSK I\Klient\bin\Debug\Klient.pdb
+C:\Users\Kamil\Desktop\PSK - Projekty koncowe\PSK I\Klient\bin\Debug\Serwer.exe
+C:\Users\Kamil\Desktop\PSK - Projekty koncowe\PSK I\Klient\bin\Debug\Serwer.pdb
+C:\Users\Kamil\Desktop\PSK - Projekty koncowe\PSK I\Klient\bin\Debug\Serwer.exe.config
+C:\Users\Kamil\Desktop\PSK - Projekty koncowe\PSK I\Klient\obj\Debug\Klient.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\PSK - Projekty koncowe\PSK I\Klient\obj\Debug\Klient.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\PSK - Projekty koncowe\PSK I\Klient\obj\Debug\Klient.exe
+C:\Users\Kamil\Desktop\PSK - Projekty koncowe\PSK I\Klient\obj\Debug\Klient.pdb
+C:\Repozytorium\Własne projekty\Client-server system\Klient\bin\Debug\Klient.exe.config
+C:\Repozytorium\Własne projekty\Client-server system\Klient\bin\Debug\Klient.exe
+C:\Repozytorium\Własne projekty\Client-server system\Klient\bin\Debug\Klient.pdb
+C:\Repozytorium\Własne projekty\Client-server system\Klient\bin\Debug\Serwer.exe
+C:\Repozytorium\Własne projekty\Client-server system\Klient\bin\Debug\Serwer.pdb
+C:\Repozytorium\Własne projekty\Client-server system\Klient\bin\Debug\Serwer.exe.config
+C:\Repozytorium\Własne projekty\Client-server system\Klient\obj\Debug\Klient.csprojAssemblyReference.cache
+C:\Repozytorium\Własne projekty\Client-server system\Klient\obj\Debug\Klient.csproj.CoreCompileInputs.cache
+C:\Repozytorium\Własne projekty\Client-server system\Klient\obj\Debug\Klient.csproj.CopyComplete
+C:\Repozytorium\Własne projekty\Client-server system\Klient\obj\Debug\Klient.exe
+C:\Repozytorium\Własne projekty\Client-server system\Klient\obj\Debug\Klient.pdb

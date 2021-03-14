@@ -1,0 +1,18 @@
+KLIENT:
+Klient.cs  --> Zdefiniowanie u¿ytkownika i wybranie odpoweidniej opcji komunikajci
+Zapytania.cs  --> Rekonstrukcja zapytañ u¿ytkownika
+Klient_Medium_TCP.cs  --> Obs³uga po³¹czenia przez TCP
+Klient_Medium_UDP.cs  --> Obs³uga po³¹czenia przez UDP
+Klient_Medium_RS232.cs  --> Obs³uga po³¹czenia przez RS 232
+Klient_Medium_FileManager.cs  --> Obs³uga po³¹czenia przez File Manager
+
+
+SERWER:
+Serwer.cs  --> Uruchomienie wszystkich dostêpnych mediów
+Konfiguracja.cs  --> Konfiguracja serwera przez zdefiniowanie dostêpnych us³ug i mediów
+Obsluga_klienta.cs  --> Przydzielanie odpowiedzi do odpowiednich klientów
+Uslugi.cs  --> Generowanie odpowiedniej odpowiedzi na ¿¹danie od klienta
+Serwer_Medium_TCP.cs  --> Obs³uga po³¹czenia przez TCP
+Serwer_Medium_UDP.cs  --> Obs³uga po³¹czenia przez UDP
+Serwer_Medium_RS232.cs  --> Obs³uga po³¹czenia przez RS 232
+Serwer_Medium_FileManager.cs  --> Obs³uga po³¹czenia przez FileManager

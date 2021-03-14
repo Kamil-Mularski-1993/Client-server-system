@@ -1,0 +1,21 @@
+C:\Users\Kamil\Desktop\Klient\Serwer\bin\Debug\Serwer.exe.config
+C:\Users\Kamil\Desktop\Klient\Serwer\bin\Debug\Serwer.exe
+C:\Users\Kamil\Desktop\Klient\Serwer\bin\Debug\Serwer.pdb
+C:\Users\Kamil\Desktop\Klient\Serwer\obj\Debug\Serwer.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\Klient\Serwer\obj\Debug\Serwer.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\Klient\Serwer\obj\Debug\Serwer.exe
+C:\Users\Kamil\Desktop\Klient\Serwer\obj\Debug\Serwer.pdb
+C:\Users\Kamil\Desktop\PSK - Projekty koncowe\PSK I\Serwer\bin\Debug\Serwer.exe.config
+C:\Users\Kamil\Desktop\PSK - Projekty koncowe\PSK I\Serwer\bin\Debug\Serwer.exe
+C:\Users\Kamil\Desktop\PSK - Projekty koncowe\PSK I\Serwer\bin\Debug\Serwer.pdb
+C:\Users\Kamil\Desktop\PSK - Projekty koncowe\PSK I\Serwer\obj\Debug\Serwer.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\PSK - Projekty koncowe\PSK I\Serwer\obj\Debug\Serwer.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\PSK - Projekty koncowe\PSK I\Serwer\obj\Debug\Serwer.exe
+C:\Users\Kamil\Desktop\PSK - Projekty koncowe\PSK I\Serwer\obj\Debug\Serwer.pdb
+C:\Repozytorium\Własne projekty\Client-server system\Serwer\bin\Debug\Serwer.exe.config
+C:\Repozytorium\Własne projekty\Client-server system\Serwer\bin\Debug\Serwer.exe
+C:\Repozytorium\Własne projekty\Client-server system\Serwer\bin\Debug\Serwer.pdb
+C:\Repozytorium\Własne projekty\Client-server system\Serwer\obj\Debug\Serwer.csprojAssemblyReference.cache
+C:\Repozytorium\Własne projekty\Client-server system\Serwer\obj\Debug\Serwer.csproj.CoreCompileInputs.cache
+C:\Repozytorium\Własne projekty\Client-server system\Serwer\obj\Debug\Serwer.exe
+C:\Repozytorium\Własne projekty\Client-server system\Serwer\obj\Debug\Serwer.pdb
